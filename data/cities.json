@@ -1,40 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "adb0",
+      "cityName": "Faridabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-25T20:40:42.290Z",
+      "notes": "Faridabad city added",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
+        "lat": "28.352733760237818",
+        "lng": "77.17895507812501"
+      }
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "id": "0c41",
+      "cityName": "Ujjain",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-25T20:52:37.001Z",
+      "notes": "dfdgd",
+      "position": {
+        "lat": "23.22620304830155",
+        "lng": "75.86608886718751"
+      }
+    },
+    {
+      "id": "4c8b",
+      "cityName": "Ghaziabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-25T20:54:11.525Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+        "lat": "28.69058765425071",
+        "lng": "77.51953125000001"
+      }
     }
   ]
 }
